@@ -1,0 +1,1 @@
+De forma geral, após alguma pesquisa e estudo, percebemos que o numero ideal de processos é igual ao numero de processadores da máquina.
